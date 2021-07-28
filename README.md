@@ -1,3 +1,4 @@
+![10 checkouttimetext](https://user-images.githubusercontent.com/82983000/127346831-95abe228-fe0c-46fe-86ae-3665d25d314e.png)
 # Bike Sharing analysis 
 
 ## Overview of Project
@@ -60,6 +61,11 @@ Tableau Story: https://public.tableau.com/app/profile/alan2551/viz/Citibike_Chal
 
 The visualized trips show that bike trips generally last between 10-20 minutes, the second graph also shows that the majority of those using this service are males. The top starting/ending locations reveals that the business is centered in Manhattan, specifically around residential and business districts, with a few outliers in Brooklyn and little to no representation in the other boroughs. An additional visualization that would be useful is a pie chart containing data on how many riders are subscribers vs one time users, which would give indication on repeat business vs tourists. Another idea is to map the areas where bike repairs are most frequently needed as that would save time and manpower down the line if repair locations can be consolidated where the majority of the traffic is. 
 
+![10 checkouttimetext](https://user-images.githubusercontent.com/82983000/127346850-4e7bf103-711f-4615-bfab-e6f7a17ea8bc.png)
+
+
+
+![11 textgender](https://user-images.githubusercontent.com/82983000/127346865-67e13481-d8a2-4064-b7a5-47b6af31ece3.png)
 
 
 
