@@ -1,7 +1,7 @@
 # Bike Sharing analysis 
 
 ## Overview of Project
-
+The purpose of this analysis is to convince investors that the bike sharing program in De Moins is a solid business proposal. To achieve that end, a bike trip analysis is laid out in the form of a Tableau story.  The story will contain visualizations that show the length of time that bikes are checked out for all riders and gerners, as well as the number of bike trips for riders and genders for each hour of each day of the week. There will also be additional visualizations showing the number of bike trupos for each type of user and gender for each day of the week in the form of heat maps. Two additional visualizations that will also be helpful are maps of the top starting/ending locations as well as the number of riders by gender throughout days of the month. The final presentation will be collected in the dashboards and summarized in the Tableau story. 
 
 Tableau Story: https://public.tableau.com/app/profile/alan2551/viz/Citibike_Challenge_16273218052180/CitiBikeStory
 
@@ -55,12 +55,5 @@ Tableau Story: https://public.tableau.com/app/profile/alan2551/viz/Citibike_Chal
 #### Total number of trips.
 
 ![7 numberoftrips](https://user-images.githubusercontent.com/82983000/127342919-8d1dc5ac-b113-4771-ae50-8c6238134365.png)
-
-
-
-
-
-### Dashboards
-
 
 ## Bike Sharing Summary
