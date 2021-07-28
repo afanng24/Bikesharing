@@ -52,6 +52,9 @@ Tableau Story: https://public.tableau.com/app/profile/alan2551/viz/Citibike_Chal
 
 ![9 topendinglocations](https://user-images.githubusercontent.com/82983000/127342787-44197618-68a4-4c0f-8239-04669cf7fabe.png)
 
+#### Total number of trips.
+
+![7 numberoftrips](https://user-images.githubusercontent.com/82983000/127342919-8d1dc5ac-b113-4771-ae50-8c6238134365.png)
 
 
 
