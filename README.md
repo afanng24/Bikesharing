@@ -1,4 +1,3 @@
-![10 checkouttimetext](https://user-images.githubusercontent.com/82983000/127346831-95abe228-fe0c-46fe-86ae-3665d25d314e.png)
 # Bike Sharing analysis 
 
 ## Overview of Project
